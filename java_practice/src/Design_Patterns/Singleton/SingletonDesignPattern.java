@@ -1,4 +1,4 @@
-package Design_Patterns;
+package Design_Patterns.Singleton;
 
 public class SingletonDesignPattern {
 //SIngle ton is used when we want to have only one object of particular class 
